@@ -1,0 +1,14 @@
+{
+  "name": "github-core-clone-01-entry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "High performance GitHub-compatible git forge in pure TypeScript",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  }
+}
